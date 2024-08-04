@@ -1,4 +1,4 @@
-### Hi there 👋, this is Safrid Bhueyan
+### Hey there 👋, this is Safrid Bhueyan
 #### An App dev (aka The vengeance )🔥🦇
 ![An App dev (aka The vengeance )🔥🦇](https://giffiles.alphacoders.com/221/221141.gif)
 
@@ -22,8 +22,6 @@ Skills: Flutter / Dart / Java /  Ruby / C++/ C / HTML/ CSS / Javascript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safridbhueyan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=safridbhueyan&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/safridbhueyan)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=safridbhueyan)  
 
