@@ -1,7 +1,6 @@
-![An App dev (aka The vengeance )🔥🦇](https://giffiles.alphacoders.com/221/221141.gif)
 ### Hi there 👋, this is Safrid Bhueyan
 #### An App dev (aka The vengeance )🔥🦇
-
+![An App dev (aka The vengeance )🔥🦇](https://giffiles.alphacoders.com/221/221141.gif)
 
 I'm a passionate app and game developer currently immersed in the exciting world of AI and app integration. As a fourth-semester BSc Computer Science student at UITS, I'm constantly exploring new technologies and pushing the boundaries of what's possible.
 
