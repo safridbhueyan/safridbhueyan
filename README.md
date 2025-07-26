@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I'm a passionate app and game developer currently immersed in the exciting world of AI and app integration. As a 5th semester BSc Computer Science student at UITS, I'm constantly exploring new technologies and pushing the boundaries of what's possible.<br><br>Skills: Flutter / Dart / Java / Ruby / C++/ C / HTML/ CSS / Javascript<br><br>🔭 I’m currently working on a AI app<br>🌱 I’m currently learning DSA ,Flutter, React native and Javascript and Machine learning<br>👯 I’m looking to collaborate on Flutter projects<br>📫 How to reach me: safridbhueyan@gmail.com<br>⚡ Fun fact: i love making beats (i am a music producer 🎹)</h3>
+<h3 align="left">I'm a passionate app and game developer currently immersed in the exciting world of AI and app integration. As a 6th semester BSc Computer Science student at UITS, I'm constantly exploring new technologies and pushing the boundaries of what's possible.<br><br>Skills: Flutter / Dart / Java / Ruby / C++/ C / HTML/ CSS / Javascript<br><br>🔭 I’m currently working on a AI app<br>🌱 I’m currently learning DSA ,Flutter, React native and Javascript and Machine learning<br>👯 I’m looking to collaborate on Flutter projects<br>📫 How to reach me: safridbhueyan@gmail.com<br>⚡ Fun fact: i love making beats (i am a music producer 🎹)</h3>
 
 ###
 
