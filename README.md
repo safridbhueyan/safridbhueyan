@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="372" src="[https://giffiles.alphacoders.com/221/221141.gif](https://giffiles.alphacoders.com/221/221141.gif)](https://giffiles.alphacoders.com/221/221141.gif)"  />
+  <img height="372" src="https://camo.githubusercontent.com/a24197c1b887607c7bd3201083437d6dfe997bfc27e287cfdac74b161040373a/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3232312f3232313134312e676966"  />
 </div>
 
 ###
