@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="372" src="https://giffiles.alphacoders.com/221/221141.gif"  />
+  <img height="372" src="[https://giffiles.alphacoders.com/221/221141.gif](https://images.steamusercontent.com/ugc/110733697261612360/25EBC23EBB5BFF50F4924DCF88072C8ED0649ABB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)"  />
 </div>
 
 ###
