@@ -86,8 +86,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/safridbhueyan/count.svg?"  />
-</div>
+
 
 ###
