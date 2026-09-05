@@ -28,28 +28,6 @@
 
 
 </div>
-<br>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
-
-  <img
-    height="540"
-    src="https://camo.githubusercontent.com/a24197c1b887607c7bd3201083437d6dfe997bfc27e287cfdac74b161040373a/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3232312f3232313134312e676966"
-    alt="Coding animation"
-  />
-
-  <img
-    height="540"
-    src="https://i.pinimg.com/originals/21/b5/51/21b5514c1341b37076fb27169a2aa8f8.gif"
-    alt="Animation"
-  />
-
-  <img
-    height="540"
-    src="https://i.pinimg.com/originals/ef/8f/8a/ef8f8ab91d3206c485de6aceb2635db9.gif"
-    alt="Coding animation"
-  />
-
-</div>
 
 <br>
 
