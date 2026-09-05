@@ -1,9 +1,8 @@
-<h1 align="center">
-  Code Name <i>(The Avatar)</i> 🔥🦇
-</h1>
-
-
-
+<p align="center">
+  <a href="https://www.safrid.com/">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=SAFRID.COM&fontColor=FFFFFF&fontSize=40&fontAlignY=55" />
+  </a>
+</p>
 <!-- GitAscii -->
 <div align="center">
   <a href="https://gitascii.com">
