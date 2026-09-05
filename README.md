@@ -15,13 +15,27 @@
   </a>
 </div>
 
+
+<div align="center">
+
+<!-- GitHub Contribution Streak -->
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=safridbhueyan&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=safridbhueyan&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=safridbhueyan&layout=compact&theme=github_dark)
+
+<br>
+
+
+</div>
 <br>
 <div align="center">
   <img
-    height="500" width="1400"
+    height="540"
     src="https://camo.githubusercontent.com/a24197c1b887607c7bd3201083437d6dfe997bfc27e287cfdac74b161040373a/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3232312f3232313134312e676966"
     alt="Coding animation"
   />
+
 </div>
 
 <br>
@@ -46,22 +60,7 @@ Currently building things with Flutter while diving deeper into
 
 
 
-## 📈 Contributions
 
-<div align="center">
-
-<!-- GitHub Contribution Streak -->
-
-<img
-  src="https://streak-stats.demolab.com?user=safridbhueyan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5"
-  height="150"
-  alt="GitHub contribution streak"
-/>
-
-<br>
-
-
-</div>
 
 
 <div align="center">
